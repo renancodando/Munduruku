@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#eee7d7"/>
+  <path d="M0 610 C210 545 390 575 565 640 C760 712 980 720 1600 555 L1600 900 L0 900 Z" fill="#315c4c"/>
+  <path d="M0 705 C260 640 420 690 620 746 C840 808 1110 785 1600 650 L1600 900 L0 900 Z" fill="#507662" opacity=".72"/>
+  <path d="M0 760 C360 690 530 770 760 790 C1010 812 1270 730 1600 690 L1600 900 L0 900 Z" fill="#8aa8a0"/>
+  <path d="M455 900 C555 775 725 731 875 730 C1045 728 1195 785 1325 900 Z" fill="#d6d0bb" opacity=".9"/>
+  <g fill="#244b3e">
+    <ellipse cx="110" cy="185" rx="76" ry="220" transform="rotate(-22 110 185)"/>
+    <ellipse cx="245" cy="120" rx="54" ry="166" transform="rotate(19 245 120)"/>
+    <ellipse cx="1460" cy="170" rx="70" ry="215" transform="rotate(24 1460 170)"/>
+    <ellipse cx="1350" cy="90" rx="45" ry="145" transform="rotate(-18 1350 90)"/>
+  </g>
+  <g stroke="#17372f" stroke-width="8" fill="none" stroke-linecap="round">
+    <path d="M50 0 C100 145 130 270 155 420"/>
+    <path d="M1540 0 C1495 140 1462 285 1435 420"/>
+  </g>
+  <g fill="#7a5437">
+    <ellipse cx="260" cy="288" rx="26" ry="40" transform="rotate(-28 260 288)"/>
+    <ellipse cx="1320" cy="310" rx="28" ry="43" transform="rotate(30 1320 310)"/>
+  </g>
+  <text x="800" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="74" fill="#17372f">MUNDURUKÚ</text>
+  <text x="800" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="32" letter-spacing="7" fill="#6f573e">LEITURA • ESCRITA • COMPREENSÃO</text>
+  <line x1="555" y1="330" x2="1045" y2="330" stroke="#9d7c51" stroke-width="2"/>
+  <text x="800" y="390" text-anchor="middle" font-family="Georgia, serif" font-size="25" fill="#433e34">Nível 1 — aprender a enxergar a língua por dentro</text>
+</svg>
