@@ -1,5 +1,7 @@
 # Capítulo 41 — Mapa geral da gramática
 
+![Mapa visual da gramática](../ilustracoes/mapa-gramatical.svg)
+
 Este capítulo funciona como um mapa de consulta rápida. Ele não substitui os capítulos anteriores; serve para localizar **onde cada tipo de informação aparece na língua**.
 
 ---
