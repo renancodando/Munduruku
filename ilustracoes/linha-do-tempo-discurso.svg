@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#f3ede2"/>
+<text x="800" y="84" text-anchor="middle" font-family="Georgia,serif" font-size="48" fill="#244238">Tempo e discurso</text>
+<text x="800" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#675f53">Mapeie eventos antes de produzir uma tradução corrida.</text>
+<line x1="170" y1="400" x2="1430" y2="400" stroke="#5d6f64" stroke-width="7" stroke-linecap="round"/>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<circle cx="300" cy="400" r="28" fill="#335b4c"/><text x="300" y="330" font-size="25" fill="#2c493e">E1</text><text x="300" y="472" font-size="18" fill="#655b50">evento inicial</text>
+<circle cx="650" cy="400" r="28" fill="#8a704e"/><text x="650" y="330" font-size="25" fill="#5b452d">E2</text><text x="650" y="472" font-size="18" fill="#655b50">mudança / causa</text>
+<circle cx="1000" cy="400" r="28" fill="#5e757b"/><text x="1000" y="330" font-size="25" fill="#3e565c">E3</text><text x="1000" y="472" font-size="18" fill="#655b50">consequência</text>
+<circle cx="1350" cy="400" r="28" fill="#6e655d"/><text x="1350" y="330" font-size="25" fill="#51463f">E4</text><text x="1350" y="472" font-size="18" fill="#655b50">desfecho</text>
+<path d="M650 570 C760 660 890 660 1000 570" fill="none" stroke="#937450" stroke-width="4" stroke-dasharray="12 10"/>
+<text x="825" y="690" font-size="20" fill="#6c5941">CAUSA → CONSEQUÊNCIA</text>
+<rect x="265" y="590" width="210" height="90" rx="22" fill="#dde6da"/><text x="370" y="630" font-size="21" fill="#365447">pima</text><text x="370" y="660" font-size="16" fill="#5a6d61">tempo / condição</text>
+<rect x="1125" y="590" width="210" height="90" rx="22" fill="#e3ddd5"/><text x="1230" y="630" font-size="21" fill="#55483f">puje</text><text x="1230" y="660" font-size="16" fill="#70655d">depois</text>
+<text x="800" y="805" font-family="Georgia,serif" font-size="27" fill="#314b40">Quem? → O quê? → Quando? → Por quê? → Com que contraste?</text>
+</g></svg>
