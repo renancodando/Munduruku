@@ -1,5 +1,7 @@
 # Capítulo 29 — Protocolo de leitura avançada
 
+![Fluxo de leitura avançada](../ilustracoes/fluxo-leitura-avancada.svg)
+
 Neste estágio, a meta não é reconhecer uma lista fechada de regras. É conseguir abrir um texto Mundurukú que você nunca estudou e ter um procedimento para enfrentá-lo sem depender de tradução pronta.
 
 ---
