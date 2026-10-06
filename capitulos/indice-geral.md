@@ -1,8 +1,8 @@
-# Índice geral
+# Índice geral — edição integral
 
 ## Nível 1 — Fundamentos
 
-00. Abertura do Nível 1
+00. Nível 1 — Fundamentos de leitura e escrita
 01. Começando do zero
 02. Ortografia e reconhecimento
 03. Palavras têm partes
@@ -13,10 +13,10 @@
 08. Interrogativos, advérbios e partículas
 09. Laboratório de leitura 1
 10. Revisão do Nível 1
-11. Flexão relacional
 
 ## Nível 2 — Estrutura intermediária
 
+11. Flexão relacional
 12. Aspecto perfectivo e imperfectivo
 13. Verbos transitivos e intransitivos
 14. Demonstrativos e espaço
@@ -30,7 +30,7 @@
 ## Nível 3 — Leitura e escrita avançadas
 
 21. Ordem, foco e anáfora
-22. Como usar dicionários
+22. Como usar dicionários sem destruir a leitura
 23. Grafias históricas e ortografia
 24. Como ler glosas e análises linguísticas
 25. Escrita controlada
@@ -53,7 +53,7 @@
 39. Laboratório de análise avançada
 40. Revisão do Nível 4
 
-## Nível 5 — Autonomia
+## Nível 5 — Autonomia orientada
 
 41. Mapa geral da gramática
 42. Ficha universal de análise
@@ -66,7 +66,7 @@
 49. Fontes e bibliografia
 50. Léxico essencial confirmado
 
-## Nível 6 — Automatização, leitura real e aplicação visual
+## Nível 6 — Leitura aplicada
 
 51. Leitura visual e reconhecimento automático
 52. Vocabulário por campos semânticos
@@ -79,7 +79,7 @@
 59. Partículas: certeza, contraste e negação na leitura
 60. Revisão cumulativa do Nível 6
 
-## Nível 7 — Consolidação morfológica e leitura densa
+## Nível 7 — Automatização gramatical
 
 61. Pronomes e rastreamento de pessoa
 62. Numerais, quantificadores e leitura de quantidade
@@ -92,6 +92,46 @@
 69. Oficina de correção e reescrita
 70. Revisão cumulativa do Nível 7
 
----
+## Nível 8 — Ortografia e sintagmas em profundidade
 
-A edição final será consolidada somente depois da ampliação dos blocos de vocabulário documentado, leituras graduadas, exercícios cumulativos e material visual, preservando a separação entre formas confirmadas e hipóteses de análise.
+71. Convenções ortográficas avançadas
+72. Nasalidade e grafemas especiais
+73. Apóstrofo e oclusiva glotal
+74. Estrutura silábica e leitura visual
+75. Paradigmas de posse
+76. Alomorfia dos marcadores pessoais
+77. Clíticos pessoais e prefixos relacionais
+78. Sintagma nominal em profundidade
+79. Sintagma verbal em profundidade
+80. Sintagma posposicional em profundidade
+
+## Nível 9 — Morfossintaxe avançada e discurso
+
+81. Cisão de intransitivos
+82. Aspecto e indexação
+83. Reduplicação e interpretação
+84. Causativização e valência
+85. Nominalização e funções derivadas
+86. Incorporação nominal em leitura
+87. Nomes em função classificadora
+88. Posposições espaciais
+89. Posposições temporais e abstratas
+90. Coesão, anáfora e progressão textual
+
+## Nível 10 — Autonomia documental e produção escrita
+
+91. Leitura de material documentado
+92. Dicionários, listas de palavras e corpus
+93. Variação ortográfica e textos históricos
+94. Tradução responsável e retroversão
+95. Escrita guiada por padrões confirmados
+96. Escrita autônoma
+97. Revisão e edição de texto
+98. Simulado avançado de leitura e escrita
+99. Projeto final de autonomia
+100. Gramática de consulta e plano pós-apostila
+
+## Arquivos finais
+
+- `Apostila_Munduruku_Leitura_Escrita_Edicao_Integral.docx`
+- `Apostila_Munduruku_Leitura_Escrita_Edicao_Integral.pdf`
