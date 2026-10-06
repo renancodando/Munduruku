@@ -1,0 +1,46 @@
+name: Finalizar apostila Munduruku
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - tools/build_apostila.py
+      - .github/workflows/finalizar-apostila.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar dependencias
+        run: |
+          pip install python-docx pillow
+          sudo apt-get update
+          sudo apt-get install -y libreoffice-writer ghostscript poppler-utils fonts-noto-core
+      - name: Construir apostila
+        run: |
+          python tools/build_apostila.py
+          mkdir -p _pdf
+          libreoffice --headless --convert-to pdf --outdir _pdf Apostila_Munduruku_Leitura_Escrita_Edicao_Integral.docx
+          gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.6 -dPDFSETTINGS=/ebook -dDetectDuplicateImages=true -dCompressFonts=true -dSubsetFonts=true -dNOPAUSE -dQUIET -dBATCH -sOutputFile=Apostila_Munduruku_Leitura_Escrita_Edicao_Integral.pdf _pdf/Apostila_Munduruku_Leitura_Escrita_Edicao_Integral.pdf
+          test -s Apostila_Munduruku_Leitura_Escrita_Edicao_Integral.docx
+          test -s Apostila_Munduruku_Leitura_Escrita_Edicao_Integral.pdf
+          pages="$(pdfinfo Apostila_Munduruku_Leitura_Escrita_Edicao_Integral.pdf | awk '/Pages/{print $2}')"
+          echo "Paginas: $pages"
+          test "$pages" -ge 1000
+      - name: Publicar resultado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add capitulos ilustracoes Apostila_Munduruku_Leitura_Escrita_Edicao_Integral.docx Apostila_Munduruku_Leitura_Escrita_Edicao_Integral.pdf
+          git commit -m "Finaliza apostila Munduruku com PDF e Word"
+          git push
