@@ -79,6 +79,19 @@
 59. Partículas: certeza, contraste e negação na leitura
 60. Revisão cumulativa do Nível 6
 
+## Nível 7 — Consolidação morfológica e leitura densa
+
+61. Pronomes e rastreamento de pessoa
+62. Numerais, quantificadores e leitura de quantidade
+63. Demonstrativos e mapas de referência
+64. Advérbios em contexto
+65. Causativos e leitura de cadeias verbais
+66. Nominalização e mudança de classe
+67. Desmontagem morfológica passo a passo
+68. Leitura de frases morfologicamente densas
+69. Oficina de correção e reescrita
+70. Revisão cumulativa do Nível 7
+
 ---
 
 A edição final será consolidada somente depois da ampliação dos blocos de vocabulário documentado, leituras graduadas, exercícios cumulativos e material visual, preservando a separação entre formas confirmadas e hipóteses de análise.
