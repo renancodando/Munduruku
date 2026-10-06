@@ -1,5 +1,7 @@
 # Capítulo 26 — Do período ao parágrafo
 
+![Linha do tempo e discurso](../ilustracoes/linha-do-tempo-discurso.svg)
+
 Ler uma frase é diferente de ler um parágrafo. No parágrafo, você precisa acompanhar **continuidade de referência, sequência de eventos, causa, contraste, foco e mudanças de cenário**.
 
 ---
