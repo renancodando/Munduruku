@@ -66,6 +66,19 @@
 49. Fontes e bibliografia
 50. Léxico essencial confirmado
 
+## Nível 6 — Automatização, leitura real e aplicação visual
+
+51. Leitura visual e reconhecimento automático
+52. Vocabulário por campos semânticos
+53. Coesão e rastreamento de referentes
+54. Leitura de textos não adaptados
+55. Escrita sem tradução palavra por palavra
+56. Prancha visual: corpo, casa e deslocamento
+57. Prancha visual: espaço, direção e posposições
+58. Leitura com interrogativos e inferência
+59. Partículas: certeza, contraste e negação na leitura
+60. Revisão cumulativa do Nível 6
+
 ---
 
-O índice é provisório enquanto a apostila estiver em construção. Novos blocos de vocabulário documentado, leituras graduadas e exercícios serão inseridos antes da edição final em PDF/DOCX.
+A edição final será consolidada somente depois da ampliação dos blocos de vocabulário documentado, leituras graduadas, exercícios cumulativos e material visual, preservando a separação entre formas confirmadas e hipóteses de análise.
