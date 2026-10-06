@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <rect width="1400" height="760" rx="32" fill="#f5f0e4"/>
+  <text x="90" y="95" font-family="Georgia, serif" font-size="42" fill="#263f36">Uma palavra pode revelar suas partes</text>
+  <text x="90" y="142" font-family="Arial, sans-serif" font-size="22" fill="#6d6254">Reconhecimento visual antes da tradução</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="120" y="235" width="250" height="120" rx="22" fill="#d9e1d5" stroke="#4d6658" stroke-width="3"/>
+    <text x="245" y="290" font-size="34" fill="#263f36">wuy</text>
+    <text x="245" y="327" font-size="19" fill="#4d6658">marcador pessoal</text>
+    <text x="430" y="304" font-size="46" fill="#80694b">+</text>
+    <rect x="500" y="235" width="250" height="120" rx="22" fill="#e8d8be" stroke="#937650" stroke-width="3"/>
+    <text x="625" y="290" font-size="34" fill="#4d3d2d">e</text>
+    <text x="625" y="327" font-size="19" fill="#80694b">elemento do padrão</text>
+    <text x="810" y="304" font-size="46" fill="#80694b">+</text>
+    <rect x="880" y="235" width="250" height="120" rx="22" fill="#d7dfe1" stroke="#5d7277" stroke-width="3"/>
+    <text x="1005" y="290" font-size="34" fill="#354d52">kobe</text>
+    <text x="1005" y="327" font-size="19" fill="#5d7277">base lexical</text>
+    <text x="1198" y="304" font-size="46" fill="#80694b">→</text>
+    <rect x="1135" y="420" width="210" height="110" rx="22" fill="#fffaf0" stroke="#263f36" stroke-width="4"/>
+    <text x="1240" y="476" font-size="32" fill="#263f36">wuyekobe</text>
+    <text x="1240" y="508" font-size="17" fill="#6d6254">forma resultante</text>
+  </g>
+  <path d="M245 390 C330 500 465 530 625 555" fill="none" stroke="#8ca092" stroke-width="4" stroke-dasharray="10 12"/>
+  <path d="M625 390 C730 480 855 520 1005 555" fill="none" stroke="#b29975" stroke-width="4" stroke-dasharray="10 12"/>
+  <path d="M1005 390 C1080 430 1140 455 1170 467" fill="none" stroke="#83979b" stroke-width="4" stroke-dasharray="10 12"/>
+  <text x="90" y="650" font-family="Georgia, serif" font-size="25" fill="#4a4339">Observe → reconheça padrões → confirme a função → só depois traduza.</text>
+</svg>
